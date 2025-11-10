@@ -19,7 +19,7 @@ mond install reisir/progress
 
 Manual install: Download the [latest release](https://github.com/reisir/progress/releases/latest)
 
-# TODO
+# REISIR'S WISHES
 
 - Add "Properties" window 
     - Access by clicking title or right click > properties
