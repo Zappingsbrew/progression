@@ -11,13 +11,7 @@ Rainmeter player skin
 
 # Installation
 
-Automatic install with [Meters on Demand](https://github.com/meters-on-demand/cli#meters-on-demand)
-
-```
-mond install reisir/progress
-```
-
-Manual install: Download the [latest release](https://github.com/reisir/progress/releases/latest)
+Download the [latest release](https://github.com/zappingsbrew/progression/releases/latest)
 
 # REISIR'S WISHES
 
